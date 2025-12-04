@@ -1,0 +1,7 @@
+{
+  "name": "Oh!some tree: AI Interactive Christmas",
+  "description": "A high-fidelity 3D Christmas Tree experience with luxury aesthetics, featuring generative AI gesture control and photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
